@@ -6,7 +6,7 @@ sudo ./test.sh ./backuper.sh
 
 #### Основной скрипт
 ```bash
-./backuper.sh <LOG_DIR> <BACKUP_DIR> <THRESHHOLD> <NUM_FILES>
+./backuper.sh <LOG_DIR> <BACKUP_DIR> <THRESHOLD> <NUM_FILES>
 ```
 - `LOG_DIR`: директория с логами
 - `BACKUP_DIR`: директория с бэкапами
